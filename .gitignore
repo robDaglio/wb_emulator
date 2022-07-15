@@ -1,0 +1,8 @@
+# Directories
+logs/
+poc/
+venv/
+.idea/
+
+# Build
+__pycache__/
